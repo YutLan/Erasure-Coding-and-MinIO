@@ -1,5 +1,7 @@
-/reedsolomon
-/xor_erasure
+erasure_algorithm/reedsolomon
+erasure_algorithm/xor_erasure
+go_module/
+workspace/
 
 
 # Binaries for programs and plugins
