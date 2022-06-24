@@ -1,0 +1,7 @@
+github.com/cloud9-tools/go-galoisfield v0.0.0-20160311182916-a8cf2bffadf0 h1:te0djrMIsqx2evVAE+U98Kfa09Jszv9OVxGJzjOjOXM=
+github.com/cloud9-tools/go-galoisfield v0.0.0-20160311182916-a8cf2bffadf0/go.mod h1:gum5aAgfkohBkDTmIabrl06Qht7QKxscuflLWFG5kXA=
+github.com/klauspost/cpuid/v2 v2.0.6/go.mod h1:FInQzS24/EEf25PyTYn52gqo7WaD8xa0213Md/qVLRg=
+github.com/klauspost/cpuid/v2 v2.0.11 h1:i2lw1Pm7Yi/4O6XCSyJWqEHI2MDw2FzUK6o/D21xn2A=
+github.com/klauspost/cpuid/v2 v2.0.11/go.mod h1:g2LTdtYhdyuGPqyWyv7qRAmj1WBqxuObKfj5c0PQa7c=
+github.com/klauspost/reedsolomon v1.9.16 h1:mR0AwphBwqFv/I3B9AHtNKvzuowI1vrj8/3UX4XRmHA=
+github.com/klauspost/reedsolomon v1.9.16/go.mod h1:eqPAcE7xar5CIzcdfwydOEdcmchAKAP/qs14y4GCBOk=
